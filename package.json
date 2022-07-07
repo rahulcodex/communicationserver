@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongoose": "^5.2.14",
     "morgan": "^1.9.1",
     "msg91-sms": "^1.0.1",
